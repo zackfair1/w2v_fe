@@ -6,8 +6,8 @@
         10000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/zackfair1/w2v_fe/blob/main/features.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/zackfair1/w2v_fe/blob/main/metadata.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/zackfair1/w2v_fe/main/features.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/zackfair1/w2v_fe/main/metadata.tsv"
     }
   ]
 }
