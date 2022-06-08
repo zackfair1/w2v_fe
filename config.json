@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/zackfair1/w2v_fe/blob/main/features.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/zackfair1/w2v_fe/blob/main/metadata.tsv?raw=true"
+      "metadataPath": "https://raw.githubusercontent.com/zackfair1/w2v_fe/blob/main/metadata.tsv"
     }
   ]
 }
