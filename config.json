@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/zackfair1/w2v_fe/blob/main/features.tsv?raw=true",
+      "metadataPath": "https://github.com/zackfair1/w2v_fe/blob/main/metadata.tsv?raw=true"
+    }
+  ]
+}
